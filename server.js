@@ -36,7 +36,7 @@ function createBot() {
     console.log('[SYSTEM] Attempting to connect to Panthera SMP...');
     
     const bot = mineflayer.createBot({
-        host: 'play.pantherasmp.co.in',
+        host: 'pantherasmp.falixsrv.me',
         port: 55635,
         username: 'PantheraWatcher',
         auth: 'offline', // Critical for servers that allow cracked/bedrock players
